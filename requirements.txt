@@ -1,4 +1,0 @@
-requests>=2.31.0
-browser-cookie3>=0.19.1
-textual>=0.79.0
-rich>=13.7.1
